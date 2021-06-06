@@ -10,11 +10,12 @@ Below the last available specs for integration within GLS Italy, as a mix of SOA
 
 * [Stock Release API](https://github.com/GLSLatina/integrationsoftware/blob/master/MU276_SvincoloGiacenzeXML_70337bb8-9a58-440a-a7df-eb3270fcac96%20(1).pdf) - Notes: This does not support Flexdelivery/ECOM custom handling
 
-* [Pickup API] - Missing
+* [Pickup API](https://github.com/GLSLatina/integrationsoftware/blob/master/MU302_Ritiri_XML_rev2_3d1def7c-da62-4692-b927-c9059c9187b8.pdf) - Handling Pickup
 
 * [Character Conversion Requirements sheets for Labeling API](https://github.com/GLSLatina/integrationsoftware/blob/master/GLS%20Webservice%20-%20Tabella%20Conversione.xlsx) - You should convert the address characters accordinly to that table. Thanks Mr. Tribuni
 
 * [Track & Trace Codes means and actions](https://github.com/GLSLatina/integrationsoftware/blob/master/codici_risultato_gls.xls) - You should consider the meaning of all the codes accordinly to that table.
+
 
 # integrationsoftware
 Collection of existing opensource software that integrate with GLS Italy IT systems (XML, FTP, Web, etc)
