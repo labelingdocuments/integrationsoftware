@@ -1,6 +1,6 @@
 # integration specs
 
-Below the last available specs for integration within GLS Italy, as a mix of SOAP/XML and GET/POST simil-REST API.
+Below the last available specs for integration within G-L-S it systems in Italy, as a mix of SOAP/XML and GET/POST simil-REST API.
 
 * [Labeling API Rev. 17](https://github.com/GLSLatina/integrationsoftware/blob/master/MU162_Web%20Integrated%20Labeling%20Service_REV17.pdf)
 
@@ -18,16 +18,16 @@ Below the last available specs for integration within GLS Italy, as a mix of SOA
 
 
 # integrationsoftware
-Collection of existing opensource software that integrate with GLS Italy IT systems (XML, FTP, Web, etc)
+Collection of existing opensource software that integrate with G-L-S  IT systems (XML, FTP, Web, etc) in Italy
 
-An unofficial PHP SDK for the GLS Italy webservice
+An unofficial PHP SDK for the G-L-S webservice in Italy
 https://github.com/markosirec/gls-italy-sdk
 
 Java GLSConnector for Weblabelng
 https://github.com/CodeVicious/GLSConnector
 
-Some kind of big multi-courier shipping manager with GLS Italy support
+Some kind of big multi-courier shipping manager with G-L-S support in Italy
 https://github.com/munanshu/zfs
 
-Odoo modules for GLS Italy labeling
+Odoo modules for G-L-S labeling in Italy
 https://github.com/it-spiderman/odoo_modules/ -> https://github.com/it-spiderman/odoo_modules/tree/master/gls_label_2
