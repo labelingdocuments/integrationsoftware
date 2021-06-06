@@ -1,3 +1,7 @@
+# integration specs
+
+[Labeling API Revision 17](https://github.com/GLSLatina/integrationsoftware/blob/master/MU162_Web%20Integrated%20Labeling%20Service_REV17.pdf)
+
 # integrationsoftware
 Collection of existing opensource software that integrate with GLS Italy IT systems (XML, FTP, Web, etc)
 
