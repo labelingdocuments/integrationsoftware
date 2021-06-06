@@ -1,6 +1,17 @@
 # integration specs
 
-[Labeling API Revision 17](https://github.com/GLSLatina/integrationsoftware/blob/master/MU162_Web%20Integrated%20Labeling%20Service_REV17.pdf)
+Below the last available specs for integration within GLS Italy, as a mix of SOAP/XML and GET/POST simil-REST API.
+
+* [Labeling API Rev. 17](https://github.com/GLSLatina/integrationsoftware/blob/master/MU162_Web%20Integrated%20Labeling%20Service_REV17.pdf)
+
+* [Address Validation API Rev. 4](https://github.com/GLSLatina/integrationsoftware/blob/master/MU163_Webservice_Checkaddress_rev_04.pdf)
+
+* [Track & Trace API Rev 7](https://github.com/GLSLatina/integrationsoftware/blob/master/MU40%20-%20Track%20%20Trace%20rev7.pdf)
+
+* [Stock Release API](https://github.com/GLSLatina/integrationsoftware/blob/master/MU276_SvincoloGiacenzeXML_70337bb8-9a58-440a-a7df-eb3270fcac96%20(1).pdf)
+
+* [Pickup API] - Missing
+
 
 # integrationsoftware
 Collection of existing opensource software that integrate with GLS Italy IT systems (XML, FTP, Web, etc)
