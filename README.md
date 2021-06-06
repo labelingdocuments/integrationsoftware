@@ -12,6 +12,9 @@ Below the last available specs for integration within GLS Italy, as a mix of SOA
 
 * [Pickup API] - Missing
 
+* [Character Conversion Requirements for Labeling API](https://github.com/GLSLatina/integrationsoftware/blob/master/GLS%20Webservice%20-%20Tabella%20Conversione.xlsx)
+
+* [Track & Trace Codes means and actions](https://github.com/GLSLatina/integrationsoftware/blob/master/codici_risultato_gls.xls)
 
 # integrationsoftware
 Collection of existing opensource software that integrate with GLS Italy IT systems (XML, FTP, Web, etc)
