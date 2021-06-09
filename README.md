@@ -16,6 +16,7 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 
 * [Track & Trace Codes means and actions](https://github.com/labelingdocuments/integrationsoftware/blob/master/codici_risultato_gls.xls) - You should consider the meaning of all the codes accordinly to that table.
 
+* [Minor Islands Zip Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/Isole_Minori_Rev6_Mar21.xlsx) along with CheckAddress detection methods
 
 # integrationsoftware
 Collection of existing opensource software that integrate with G-L-S  IT systems (XML, FTP, Web, etc) in Italy
