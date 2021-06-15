@@ -28,8 +28,8 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 
 * ZIP Code are 5-digits long and for validation and fixing it's possible to use the [Comuni-json](https://github.com/matteocontrini/comuni-json) database
   * ZIP Code in Italy do follow that rules that enable cross-province code validation
-    The 1st digit of zipcode is the Region.
-    The 2nd digit of zipcode is the Province.
+   * The 1st digit of zipcode is the Region.
+   * The 2nd digit of zipcode is the Province.
 
 * [Province name with Province code](https://github.com/labelingdocuments/integrationsoftware/blob/master/province-it.xls) are useful for address preparation and fixing.
 
