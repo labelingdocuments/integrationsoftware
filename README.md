@@ -19,8 +19,8 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 * [Minor Islands Zip Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/Isole_Minori_Rev6_Mar21.xlsx) along with CheckAddress detection methods
 
 * POD (Proof of Delivery) can be uploaded by G-L-S in Italy automatically to a destination FTP or SFTP server and via email. Note: CAO
- *  POD can be uploaded in JPEG, PDF, TIFF format.
- *  POD file name can be A) NSped (shipment number) B) DDT (Internal shipment identifier in "BDA" field) 
+  *  POD can be uploaded in JPEG, PDF, TIFF format.
+  *  POD file name can be A) NSped (shipment number) B) DDT (Internal shipment identifier in "BDA" field) 
 
 # integrationsoftware
 Collection of existing opensource software that integrate with G-L-S  IT systems (XML, FTP, Web, etc) in Italy
