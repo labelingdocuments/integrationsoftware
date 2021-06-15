@@ -18,9 +18,17 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 
 * [Minor Islands Zip Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/Isole_Minori_Rev6_Mar21.xlsx) along with CheckAddress detection methods
 
+* ZIP Code are 5-digits long and for validation and fixing it's possible to use the [Comuni-json](https://github.com/matteocontrini/comuni-json) database
+  * ZIP Code in Italy do follow that rules that enable cross-province code validation
+    The 1st digit of zipcode is the Region.
+    The 2nd digit of zipcode is the Province.
+
+* [Province name with Province code](https://github.com/labelingdocuments/integrationsoftware/blob/master/province-it.xls) are useful for address preparation and fixing.
+
 * POD (Proof of Delivery) can be uploaded by G-L-S in Italy automatically to a destination FTP or SFTP server and via email. Note: CAO
   *  POD can be uploaded in JPEG, PDF, TIFF format.
   *  POD file name can be A) NSped (shipment number) B) DDT (Internal shipment identifier in "BDA" field) 
+
 
 # integrationsoftware
 Collection of existing opensource software that integrate with G-L-S  IT systems (XML, FTP, Web, etc) in Italy
