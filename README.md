@@ -13,14 +13,13 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 
 * [Track & Trace Standard Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/standard_tracking_codes.xls) for uses with normal delivery
 
-* [Track & Trace Full Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/codici_risultato_gls.xls) - Full Track and Trace Code
+* [Track & Trace Full Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/codici_risultato_gls.xls) - Full Track and Trace Codes
 
 **FAILED DELIVERY MANAGEMENT**
 
 * [Track & Trace Failed Delivery - Required Actions Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/tracking_codes_requiring_sender_action.xlsx) whereby it's mandatory for sender to take action
 
-
-* [Stock Release API](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU276_SvincoloGiacenzeXML_70337bb8-9a58-440a-a7df-eb3270fcac96%20(1).pdf) - Notes: This does not support Flexdelivery/ECOM custom handling
+* [Stock Release API](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU276_SvincoloGiacenzeXML_70337bb8-9a58-440a-a7df-eb3270fcac96%20(1).pdf) - For taking actions on Failed Delivery Notes: This does not support Flexdelivery/ECOM custom handling
 
 **RESOURCES FOR ADDRESS VALIDATION AND FIXING**
 
@@ -31,9 +30,9 @@ Below the last available specs for integration within G-L-S it systems in Italy,
    * The 1st digit of zipcode is the Region.
    * The 2nd digit of zipcode is the Province.
 
-* [Province name with Province code](https://github.com/labelingdocuments/integrationsoftware/blob/master/province-it.xls) are useful for address preparation and fixing.
+* [Province name with Province code](https://github.com/labelingdocuments/integrationsoftware/blob/master/province-it.xls) are useful for address preparation and fixing, before labeling.
 
-* [Minor Islands Zip Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/Isole_Minori_Rev6_Mar21.xlsx) along with CheckAddress detection methods
+* [Minor Islands Zip Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/Isole_Minori_Rev6_Mar21.xlsx) is useful for excluding high-cost destination based on A) ZIP Codes B) CheckAddress() API's results
 
 **POST DELIVERY**
 
