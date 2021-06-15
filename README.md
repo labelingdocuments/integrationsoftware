@@ -29,6 +29,7 @@ Below the last available specs for integration within G-L-S it systems in Italy,
   *  POD can be uploaded in JPEG, PDF, TIFF format.
   *  POD file name can be A) NSped (shipment number) B) DDT (Internal shipment identifier in "BDA" field) 
 
+* [Sender Actions for Failed Delivery](https://github.com/labelingdocuments/integrationsoftware/blob/master/tracking_codes_requiring_sender_action.xlsx) 
 
 # integrationsoftware
 Collection of existing opensource software that integrate with G-L-S  IT systems (XML, FTP, Web, etc) in Italy
