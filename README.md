@@ -8,13 +8,17 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 
 * [Track & Trace API Rev 7](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU40%20-%20Track%20%20Trace%20rev7.pdf)
 
+* [Track & Trace Standard Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/standard_tracking_codes.xls) for uses with normal delivery
+
+* [Track & Trace Failed Delivery - Required Actions Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/tracking_codes_requiring_sender_action.xlsx) whereby it's mandatory for sender to take action
+
+* [Track & Trace Full Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/codici_risultato_gls.xls) - Full Track and Trace Code
+* 
 * [Stock Release API](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU276_SvincoloGiacenzeXML_70337bb8-9a58-440a-a7df-eb3270fcac96%20(1).pdf) - Notes: This does not support Flexdelivery/ECOM custom handling
 
 * [Pickup API](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU302_Ritiri_XML_rev2_3d1def7c-da62-4692-b927-c9059c9187b8.pdf) - Handling Pickup
 
-* [Character Conversion Requirements sheets for Labeling API](https://github.com/labelingdocuments/integrationsoftware/blob/master/GLS%20Webservice%20-%20Tabella%20Conversione.xlsx) - You should convert the address characters accordinly to that table. Thanks Mr. Tribuni
-
-* [Track & Trace Codes means and actions](https://github.com/labelingdocuments/integrationsoftware/blob/master/codici_risultato_gls.xls) - You should consider the meaning of all the codes accordinly to that table.
+* [Character Conversion sheets for Labeling API](https://github.com/labelingdocuments/integrationsoftware/blob/master/GLS%20Webservice%20-%20Tabella%20Conversione.xlsx) - You should convert the address characters accordinly to that table. Thanks Mr. Tribuni
 
 * [Minor Islands Zip Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/Isole_Minori_Rev6_Mar21.xlsx) along with CheckAddress detection methods
 
@@ -29,7 +33,6 @@ Below the last available specs for integration within G-L-S it systems in Italy,
   *  POD can be uploaded in JPEG, PDF, TIFF format.
   *  POD file name can be A) NSped (shipment number) B) DDT (Internal shipment identifier in "BDA" field) 
 
-* [Sender Actions for Failed Delivery](https://github.com/labelingdocuments/integrationsoftware/blob/master/tracking_codes_requiring_sender_action.xlsx) 
 
 # integrationsoftware
 Collection of existing opensource software that integrate with G-L-S  IT systems (XML, FTP, Web, etc) in Italy
