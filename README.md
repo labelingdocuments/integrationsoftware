@@ -30,6 +30,8 @@ Below the last available specs for integration within G-L-S it systems in Italy,
    * The 1st digit of zipcode is the Region.
    * The 2nd digit of zipcode is the Province.
 
+* [ZIP Codes in XLS](https://github.com/labelingdocuments/integrationsoftware/blob/master/CAP_ITALIA_2020.xlsx) with Municipality and Region of all Italy, up to date for 2020
+ 
 * [Province name with Province code](https://github.com/labelingdocuments/integrationsoftware/blob/master/province-it.xls) are useful for address preparation and fixing, before labeling.
 
 * [Minor Islands Zip Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/Isole_Minori_Rev6_Mar21.xlsx) is useful for excluding high-cost destination based on A) ZIP Codes B) CheckAddress() API's results
