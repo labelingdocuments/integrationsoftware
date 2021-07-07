@@ -1,0 +1,23 @@
+XMLInfoParcel=<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Info>
+<SedeGls>WAREHOUSECODE</SedeGls>
+<CodiceClienteGls>CUSTOMERCODE</CodiceClienteGls>
+<PasswordClienteGls>CUSTOMERPASSWORD</PasswordClienteGls>
+<Parcel>
+<codicecontrattogls>CONTRACTCODE</codicecontrattogls>
+<ragionesociale><![CDATA[RECIPIENT_NAME]]></ragionesociale>
+<indirizzo><![CDATA[DESTINATION_ADDRESS]]></indirizzo>
+<localita><![CDATA[DESTINATION_CITY_NAME]]></localita>
+<zipcode>ZIP_CODE</zipcode>
+<provincia>PROVINCE_NAME</provincia>
+<bda>YOUR_INTERNAL_IDENTIFIER</bda>
+<colli>PARCELNUMBER</colli>
+<pesoreale>WEIGHT</pesoreale>
+<pesovolume>VOLUMETRICWEIGHT</pesovolume>
+<notespedizione><![CDATA[Tel:123-456-7890 chiama Prima]]></notespedizione>
+<noteaggiuntive><![CDATA[Se non a casa, SMS o Chiama 123-456-7890]]></noteaggiuntive>
+<email><![CDATA[EXAMPLE@gmail.com]]></email>
+<cellulare1><![CDATA[123-456-7890]]></cellulare1>
+<generapdf>4</generapdf>
+</Parcel>
+</Info>
