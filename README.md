@@ -44,6 +44,10 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 
 * [Pickup API](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU302_Ritiri_XML_rev2_3d1def7c-da62-4692-b927-c9059c9187b8.pdf) - Handling Pickups for return
 
+**TESTING API**
+
+For testing SOAP interfaces (Labeling and Address Validation):
+* [SOAP UI](https://www.soapui.org/tools/soapui/) opensource graphical tool
 
 
 # integrationsoftware
