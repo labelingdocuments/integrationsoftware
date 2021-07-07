@@ -49,6 +49,8 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 For testing SOAP interfaces (Labeling and Address Validation):
 * [SOAP UI](https://www.soapui.org/tools/soapui/) opensource graphical tool
 
+For testing HTTP POST interfaces, in a simple way using [curl](https://curl.se/):
+* curl -X POST -d @Request-Template-AddParcel.xml-POST-TEMPLATE.txt https://labelservice.gls-italy.com/ilswebservice.asmx/AddParcel
 
 # integrationsoftware
 Collection of existing opensource software that integrate with G-L-S  IT systems (XML, FTP, Web, etc) in Italy
