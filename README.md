@@ -54,7 +54,7 @@ For testing AddParcel() HTTP POST interfaces, in a simple way using [curl](https
 
 For testing Track and Trace API using HTTP GET the following URI:
 * Departure: /XML/get_xml_track.php?locpartenza=<WAREHOUSEOFDEPARTURE>&NumSped=<NUMSPED>&CodCli=<CUSTOMERID>
-* Pick-up: /XML/get_xml_track.php?locpartenza=<WAREHOUSEOFPICKUP>&numrit=<NUMBEROFPICKUP>&CodCli=>CUSTOMERID>
+* Pick-up: /XML/get_xml_track.php?locpartenza=<WAREHOUSEOFPICKUP>&numrit=<NUMBEROFPICKUP>&CodCli=<CUSTOMERID>
 * Return:  /XML/get_xml_track.php?sedecon=<WAREHOUSEOFDEPARTURE>&CodCli=<CUSTOMERID>&idreso=<IDRESO>   <---- NOTE: IDRESO by default is the NUMSPED of DEPARTURE
                                                                                                              
 Below the significant data of Track & Trace records:
