@@ -58,7 +58,7 @@ For testing Track and Trace API using HTTP GET the following URI:
 * Return:  /XML/get_xml_track.php?sedecon=<WAREHOUSEOFDEPARTURE>&CodCli=<CUSTOMERID>&idreso=<IDRESO>   <---- NOTE: IDRESO by default is the NUMSPED of DEPARTURE
                                                                                                              
 Below the significant data of Track & Trace records:
-                                                                                                             
+
 * <TRACKING>
  * <Data> <--- DATE OF EVENT OF TRACKING
  * <Ora> <--- TIME OF EVENT OF TRACKING
