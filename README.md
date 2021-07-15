@@ -50,7 +50,7 @@ For testing SOAP interfaces (Labeling and Address Validation):
 * [SOAP UI](https://www.soapui.org/tools/soapui/) opensource graphical tool
 
 For testing AddParcel() HTTP POST interfaces, in a simple way using [curl](https://curl.se/):
-* curl -X POST -d @Request-Template-AddParcel.xml-POST-TEMPLATE.txt https://labelservice.gls-italy.com/ilswebservice.asmx/AddParcel
+* curl -X POST -d @Request-Template-AddParcel.xml-POST-TEMPLATE.txt /ilswebservice.asmx/AddParcel
 
 For testing Track and Trace API using HTTP GET the following URI:
 * Departure: /XML/get_xml_track.php?locpartenza=<WAREHOUSEOFDEPARTURE>&NumSped=<NUMSPED>&CodCli=<CUSTOMERID>
