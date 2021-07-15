@@ -60,12 +60,12 @@ For testing Track and Trace API using HTTP GET the following URI:
 Below the significant data of Track & Trace records:
                                                                                                              
 * <TRACKING>
-** <Data> <--- DATE OF EVENT OF TRACKING
-** <Ora> <--- TIME OF EVENT OF TRACKING
-** <Luogo> <--- LOCATION OF EVENT OF TRACKING
-** <Stato> <--- DESCRIPTIVE STATUS OF EVENT
-** <Note> <--- NOTES OF EVENT (es: SIGNATURE OF DELIVERED)
-** <Codice> <--- TRACKING CODE NUMBER
+ * <Data> <--- DATE OF EVENT OF TRACKING
+ * <Ora> <--- TIME OF EVENT OF TRACKING
+ * <Luogo> <--- LOCATION OF EVENT OF TRACKING
+ * <Stato> <--- DESCRIPTIVE STATUS OF EVENT
+ * <Note> <--- NOTES OF EVENT (es: SIGNATURE OF DELIVERED)
+ * <Codice> <--- TRACKING CODE NUMBER
  
 # integrationsoftware
 Collection of existing opensource software that integrate with G-L-S  IT systems (XML, FTP, Web, etc) in Italy
