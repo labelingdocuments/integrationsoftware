@@ -13,7 +13,7 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 
 * [Track & Trace Standard Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/standard_tracking_codes.xls) for uses with normal delivery
 
-* [Track & Trace Full Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/codici_risultato_gls.xls) - Full Track and Trace Codes
+* [Track & Trace Full National Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/full-national-tracking-code.xlsx) - Full National Track and Trace Codes
 
 **FAILED DELIVERY MANAGEMENT**
 
