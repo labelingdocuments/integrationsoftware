@@ -11,6 +11,8 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 **TRACKING SHIPMENTS**
 * [Track & Trace API Rev 7](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU40%20-%20Track%20%20Trace%20rev7.pdf)
 
+* [Track & Trace API Rev 8.1](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU40%20-%20Track%20%26%20Trace_rev_8.1.pdf) - Includes tracking of Forwarded Parcels from one warehouse to another one
+
 * [Track & Trace Standard Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/standard_tracking_codes.xls) for uses with normal delivery
 
 * [Track & Trace Full National Codes](https://github.com/labelingdocuments/integrationsoftware/blob/master/full-national-tracking-code.xlsx) - Full National Track and Trace Codes
