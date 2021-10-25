@@ -5,6 +5,8 @@ Below the last available specs for integration within G-L-S it systems in Italy,
 **CREATING SHIPMENTS**
 * [Labeling API Rev. 17](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU162_Web%20Integrated%20Labeling%20Service_REV17.pdf)
 
+* [Labeling API Rev 20](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU162_Ita_Web%20Integrated%20Labeling%20Service_REV20.pdf)
+* 
 * [Address Validation API Rev. 4](https://github.com/labelingdocuments/integrationsoftware/blob/master/MU163_Webservice_Checkaddress_rev_04.pdf)
 
 
